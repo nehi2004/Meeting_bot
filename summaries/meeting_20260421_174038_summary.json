@@ -1,0 +1,20 @@
+{
+  "meeting_title": "Common Sense Design",
+  "date": null,
+  "summary": "Discussed common sense design and decided to use dual-coloured.",
+  "key_points": [
+    "dual-coloured",
+    "backend data"
+  ],
+  "action_items": [
+    {
+      "task": "handle backend data",
+      "assigned_to": "Priya",
+      "deadline": "April 28th"
+    }
+  ],
+  "decisions_made": [
+    "launched website on May 1st"
+  ],
+  "next_meeting": "scheduled for April 20th"
+}

@@ -1,0 +1,25 @@
+{
+  "meeting_title": "website project",
+  "date": null,
+  "summary": "We discussed the homebath design and decided to use a pink color theme.",
+  "key_points": [
+    "The problem is there is no problem in the PC version.",
+    "My idea is to be a new part of my world."
+  ],
+  "action_items": [
+    {
+      "task": "complete a design",
+      "assigned_to": "Rahul",
+      "deadline": "April 25th"
+    },
+    {
+      "task": "handle the packing database",
+      "assigned_to": "Priya",
+      "deadline": "April 28th"
+    }
+  ],
+  "decisions_made": [
+    "We decided to launch the website on May 1st."
+  ],
+  "next_meeting": "a schedule for April 20th"
+}

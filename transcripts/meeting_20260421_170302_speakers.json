@@ -1,0 +1,61 @@
+{
+  "audio_file": "recordings\\meeting_20260421_170302.wav",
+  "total_speakers": 2,
+  "duration": 136.006,
+  "segments": [
+    {
+      "speaker": "Speaker_1",
+      "start": 0.0,
+      "end": 66.5,
+      "duration": 66.5
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 66.5,
+      "end": 70.75,
+      "duration": 4.25
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 70.75,
+      "end": 100.5,
+      "duration": 29.75
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 100.5,
+      "end": 114.0,
+      "duration": 13.5
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 114.0,
+      "end": 122.0,
+      "duration": 8.0
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 122.0,
+      "end": 129.5,
+      "duration": 7.5
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 129.5,
+      "end": 131.5,
+      "duration": 2.0
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 131.5,
+      "end": 133.5,
+      "duration": 2.0
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 133.5,
+      "end": 136.01,
+      "duration": 2.51
+    }
+  ]
+}

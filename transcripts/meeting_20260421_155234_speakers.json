@@ -1,0 +1,181 @@
+{
+  "audio_file": "recordings\\meeting_20260421_155234.wav",
+  "total_speakers": 2,
+  "duration": 153.01,
+  "segments": [
+    {
+      "speaker": "Speaker_1",
+      "start": 0.0,
+      "end": 3.5,
+      "duration": 3.5
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 3.5,
+      "end": 10.75,
+      "duration": 7.25
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 10.75,
+      "end": 14.25,
+      "duration": 3.5
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 14.25,
+      "end": 21.5,
+      "duration": 7.25
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 21.5,
+      "end": 24.75,
+      "duration": 3.25
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 24.75,
+      "end": 32.0,
+      "duration": 7.25
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 32.0,
+      "end": 35.5,
+      "duration": 3.5
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 35.5,
+      "end": 42.75,
+      "duration": 7.25
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 42.75,
+      "end": 46.25,
+      "duration": 3.5
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 46.25,
+      "end": 53.5,
+      "duration": 7.25
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 53.5,
+      "end": 56.75,
+      "duration": 3.25
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 56.75,
+      "end": 64.0,
+      "duration": 7.25
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 64.0,
+      "end": 67.5,
+      "duration": 3.5
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 67.5,
+      "end": 74.75,
+      "duration": 7.25
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 74.75,
+      "end": 78.25,
+      "duration": 3.5
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 78.25,
+      "end": 85.5,
+      "duration": 7.25
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 85.5,
+      "end": 88.75,
+      "duration": 3.25
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 88.75,
+      "end": 96.0,
+      "duration": 7.25
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 96.0,
+      "end": 99.5,
+      "duration": 3.5
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 99.5,
+      "end": 106.75,
+      "duration": 7.25
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 106.75,
+      "end": 110.25,
+      "duration": 3.5
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 110.25,
+      "end": 117.5,
+      "duration": 7.25
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 117.5,
+      "end": 120.75,
+      "duration": 3.25
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 120.75,
+      "end": 128.0,
+      "duration": 7.25
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 128.0,
+      "end": 131.5,
+      "duration": 3.5
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 131.5,
+      "end": 138.75,
+      "duration": 7.25
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 138.75,
+      "end": 142.25,
+      "duration": 3.5
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 142.25,
+      "end": 149.5,
+      "duration": 7.25
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 149.5,
+      "end": 153.01,
+      "duration": 3.51
+    }
+  ]
+}

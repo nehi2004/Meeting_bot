@@ -1,0 +1,145 @@
+{
+  "audio_file": "recordings\\meeting_20260422_221015.wav",
+  "total_speakers": 3,
+  "duration": 344.812,
+  "segments": [
+    {
+      "speaker": "Speaker_2",
+      "start": 0.0,
+      "end": 31.25,
+      "duration": 31.25
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 31.25,
+      "end": 35.75,
+      "duration": 4.5
+    },
+    {
+      "speaker": "Speaker_3",
+      "start": 35.75,
+      "end": 42.25,
+      "duration": 6.5
+    },
+    {
+      "speaker": "Speaker_3",
+      "start": 42.25,
+      "end": 44.75,
+      "duration": 2.5
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 44.75,
+      "end": 57.75,
+      "duration": 13.0
+    },
+    {
+      "speaker": "Speaker_3",
+      "start": 57.75,
+      "end": 61.0,
+      "duration": 3.25
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 61.0,
+      "end": 70.25,
+      "duration": 9.25
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 70.25,
+      "end": 78.5,
+      "duration": 8.25
+    },
+    {
+      "speaker": "Speaker_3",
+      "start": 78.5,
+      "end": 80.25,
+      "duration": 1.75
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 80.25,
+      "end": 83.0,
+      "duration": 2.75
+    },
+    {
+      "speaker": "Speaker_3",
+      "start": 83.0,
+      "end": 85.5,
+      "duration": 2.5
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 85.5,
+      "end": 96.25,
+      "duration": 10.75
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 96.25,
+      "end": 116.5,
+      "duration": 20.25
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 116.5,
+      "end": 136.5,
+      "duration": 20.0
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 136.5,
+      "end": 158.0,
+      "duration": 21.5
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 158.0,
+      "end": 181.75,
+      "duration": 23.75
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 181.75,
+      "end": 186.75,
+      "duration": 5.0
+    },
+    {
+      "speaker": "Speaker_3",
+      "start": 186.75,
+      "end": 195.75,
+      "duration": 9.0
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 195.75,
+      "end": 208.5,
+      "duration": 12.75
+    },
+    {
+      "speaker": "Speaker_3",
+      "start": 208.5,
+      "end": 218.5,
+      "duration": 10.0
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 218.5,
+      "end": 223.25,
+      "duration": 4.75
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 223.25,
+      "end": 225.5,
+      "duration": 2.25
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 225.5,
+      "end": 344.81,
+      "duration": 119.31
+    }
+  ]
+}

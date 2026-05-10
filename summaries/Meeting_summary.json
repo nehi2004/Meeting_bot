@@ -1,0 +1,21 @@
+{
+  "meeting_title": "Website Project",
+  "date": null,
+  "summary": "Discussed homepage design and decided to use a blue colour theme.",
+  "key_points": [
+    "Decided to launch website on May 1st",
+    "Decided to launch website on April 20th"
+  ],
+  "action_items": [
+    {
+      "task": "Rahul will complete the design by April 20th",
+      "assigned_to": "Rahul",
+      "deadline": "April 20th"
+    }
+  ],
+  "decisions_made": [
+    "Decided to launch website on May 1st",
+    "Decided to launch website on April 20th"
+  ],
+  "next_meeting": null
+}

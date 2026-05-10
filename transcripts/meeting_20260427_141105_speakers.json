@@ -1,0 +1,217 @@
+{
+  "audio_file": "recordings\\meeting_20260427_141105.wav",
+  "total_speakers": 3,
+  "duration": 240.318,
+  "segments": [
+    {
+      "speaker": "Speaker_1",
+      "start": 0.0,
+      "end": 62.5,
+      "duration": 62.5
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 62.5,
+      "end": 118.75,
+      "duration": 56.25
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 118.75,
+      "end": 122.0,
+      "duration": 3.25
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 122.0,
+      "end": 122.25,
+      "duration": 0.25
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 122.25,
+      "end": 126.0,
+      "duration": 3.75
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 126.0,
+      "end": 127.75,
+      "duration": 1.75
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 127.75,
+      "end": 136.0,
+      "duration": 8.25
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 136.0,
+      "end": 140.0,
+      "duration": 4.0
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 140.0,
+      "end": 141.5,
+      "duration": 1.5
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 141.5,
+      "end": 144.25,
+      "duration": 2.75
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 144.25,
+      "end": 146.75,
+      "duration": 2.5
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 146.75,
+      "end": 182.75,
+      "duration": 36.0
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 182.75,
+      "end": 187.0,
+      "duration": 4.25
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 187.0,
+      "end": 188.0,
+      "duration": 1.0
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 188.0,
+      "end": 188.75,
+      "duration": 0.75
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 188.75,
+      "end": 191.0,
+      "duration": 2.25
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 191.0,
+      "end": 193.0,
+      "duration": 2.0
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 193.0,
+      "end": 194.25,
+      "duration": 1.25
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 194.25,
+      "end": 196.0,
+      "duration": 1.75
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 196.0,
+      "end": 197.5,
+      "duration": 1.5
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 197.5,
+      "end": 199.5,
+      "duration": 2.0
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 199.5,
+      "end": 200.5,
+      "duration": 1.0
+    },
+    {
+      "speaker": "Speaker_3",
+      "start": 200.5,
+      "end": 203.0,
+      "duration": 2.5
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 203.0,
+      "end": 205.0,
+      "duration": 2.0
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 205.0,
+      "end": 206.25,
+      "duration": 1.25
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 206.25,
+      "end": 209.5,
+      "duration": 3.25
+    },
+    {
+      "speaker": "Speaker_3",
+      "start": 209.5,
+      "end": 212.5,
+      "duration": 3.0
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 212.5,
+      "end": 215.0,
+      "duration": 2.5
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 215.0,
+      "end": 216.5,
+      "duration": 1.5
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 216.5,
+      "end": 218.0,
+      "duration": 1.5
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 218.0,
+      "end": 222.25,
+      "duration": 4.25
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 222.25,
+      "end": 225.0,
+      "duration": 2.75
+    },
+    {
+      "speaker": "Speaker_3",
+      "start": 225.0,
+      "end": 227.25,
+      "duration": 2.25
+    },
+    {
+      "speaker": "Speaker_3",
+      "start": 227.25,
+      "end": 227.75,
+      "duration": 0.5
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 227.75,
+      "end": 240.32,
+      "duration": 12.57
+    }
+  ]
+}

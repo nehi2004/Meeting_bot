@@ -1,0 +1,19 @@
+{
+  "meeting_title": "We discuss today's meeting is about our website project",
+  "date": "2024-04-28",
+  "summary": "We decided to use blue to colorate him and we will handle the website",
+  "key_points": [
+    "We decided to use blue",
+    "We also decided April 28th"
+  ],
+  "action_items": [
+    {
+      "task": "convert the design by April 25th",
+      "assigned_to": "Rahul"
+    }
+  ],
+  "decisions_made": [
+    "We will handle the website"
+  ],
+  "next_meeting": "Next meeting is for April 20th"
+}

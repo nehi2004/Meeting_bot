@@ -1,0 +1,67 @@
+{
+  "audio_file": "recordings\\meeting_20260421_174038.wav",
+  "total_speakers": 2,
+  "duration": 63.05,
+  "segments": [
+    {
+      "speaker": "Speaker_1",
+      "start": 0.0,
+      "end": 6.75,
+      "duration": 6.75
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 6.75,
+      "end": 9.5,
+      "duration": 2.75
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 9.5,
+      "end": 12.25,
+      "duration": 2.75
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 12.25,
+      "end": 26.75,
+      "duration": 14.5
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 26.75,
+      "end": 30.5,
+      "duration": 3.75
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 30.5,
+      "end": 41.0,
+      "duration": 10.5
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 41.0,
+      "end": 54.25,
+      "duration": 13.25
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 54.25,
+      "end": 55.75,
+      "duration": 1.5
+    },
+    {
+      "speaker": "Speaker_2",
+      "start": 55.75,
+      "end": 57.25,
+      "duration": 1.5
+    },
+    {
+      "speaker": "Speaker_1",
+      "start": 57.25,
+      "end": 63.05,
+      "duration": 5.8
+    }
+  ]
+}
