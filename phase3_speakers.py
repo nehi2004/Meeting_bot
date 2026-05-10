@@ -223,7 +223,6 @@ if __name__ == "__main__":
 
     # Run diarization
     segments = diarize_audio(audio_path, num_speakers=num_spk)
-
     if segments:
         base = os.path.splitext(os.path.basename(audio_path))[0]
         tr   = os.path.join("transcripts", f"{base}_transcript.txt")
