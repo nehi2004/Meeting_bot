@@ -1,3 +1,0 @@
-{
-  "raw_summary": "{\n    \"meeting_title\": \"Today website project meeting\",\n    \"date\": \"2024-04-25\", // Corrected date to April 25\n    \"summary\": \"Discussed homepage design and decided on a blue color theme.\",\n    \"key_points\": [\"homepage design\", \"blue color theme\"],\n    \"action_items\": [\n        {\n            \"task\": \"complete the design\",\n            \"assigned_to\": \"Rahul\",\n            \"deadline\": \"April 25\"\n        },\n        {\n            \"task\": \"handle packing database\",\n            \"assigned_to\": \"Priya\",\n            \"deadline\": \"April 28\"\n        }\n    ],\n    \"decisions_made\": [\"launch website on May 1st\"],\n    \"next_meeting\": \"scheduled for April 20\"\n}"
-}
